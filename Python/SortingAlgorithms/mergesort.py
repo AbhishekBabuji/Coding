@@ -46,6 +46,7 @@ def merge_sort(inputlist):
             mainlist_index = mainlist_index + 1
     #print("Merging ", inputlist)
 
+
 if __name__ == '__main__':
 
     inputlist = [54, 26, 93, 17, 77, 31, 44, 55, 20]
