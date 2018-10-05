@@ -14,7 +14,6 @@ class Solution:
     def change_dir(self, curr_dir):
 
         """
-
         Args:
             curr_dir (str): Represents the current direction
 
